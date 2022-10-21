@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Isaki miyahi",
+         "day": "Aug 09 1945", 
+         "fortune": "If the sun seems brighter than usual today TAKE COVER!!!",
+         "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Atomic_bombing_of_Japan.jpg/600px-Atomic_bombing_of_Japan.jpg"
+    },
+    {
+        "id": 2, 
+        "name": "Amelia Earhart", 
+        "day": "Sept 29 1925"
+        "Fortune": "Dont fly over the Bermuda triangle you'll go missing lol",
+        "imageURL": "https://s.hdnux.com/photos/47/64/36/10438576/6/1100x0.jpg"
+    },
+    {
+        "id": 3, 
+        "name": "Fa Mulan", 
+        "day": "january 4 1801",
+        "Fortune": "You'll be a renown warrior in china according to a disney movie",
+        "imageURL": "https://lumiere-a.akamaihd.net/v1/images/p_mulan_20529_83d3893a.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Johnny depp",
+        "day": "February 7 2021" 
+        "Fortune": "You'll have a wife that will defecate on your bed",
+        "imageURL": "https://starecat.com/content/wp-content/uploads/johnny-depp-amber-sweetheart-im-home-amber-heard-pooping-at-their-bed.jpg"
+    }
+]
